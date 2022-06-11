@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm Shuanglu. 
 
 - 🔭 I’m currently working as a SRE and focusing on cloud native related like kuberbentes, servicemesh 
 - 💬 Have worked on azure/aws and kubernetes for years
