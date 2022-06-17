@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a SRE and focusing on cloud native related like kuberbentes, servicemesh 
+- 🔭 I’m currently working as a SRE and focusing on cloud native related like kubernetes, servicemesh 
 - 💬 Have worked on azure/aws and kubernetes for years
 - ⚡ Ask me anything about :smiley_cat: and :dog: 
 
